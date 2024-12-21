@@ -1,0 +1,6 @@
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/LENOVO/Documents/.FILES/Code/Verilog/ALU/alu_isim_beh.exe -prj C:/Users/LENOVO/Documents/.FILES/Code/Verilog/ALU/alu_beh.prj work.alu 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+ERROR:Simulator:702 - Can not find design unit work.alu in library work located at isim/work 
